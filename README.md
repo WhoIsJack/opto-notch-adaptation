@@ -1,6 +1,6 @@
 # opto-notch-adaptation
 
-This repo hosts the code for the quantitative image analysis and Ordinary Differential Equation (ODE) modelling in the paper **"Desensitisation of Notch signalling through dynamic adaptation in the nucleus"** by Viswanathan, Hartmann and colleagues. All code was written by Jonas Hartmann.
+This repo hosts the code for the quantitative image analysis and Ordinary Differential Equation (ODE) modelling in the paper **[Desensitisation of Notch signalling through dynamic adaptation in the nucleus](https://www.embopress.org/doi/full/10.15252/embj.2020107245)** by Viswanathan, Hartmann and colleagues. All code was written by Jonas Hartmann.
 
 
 ### Repository Structure
